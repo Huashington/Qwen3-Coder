@@ -1,5 +1,6 @@
 # 股票信息分析网站
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e78e2cc-2cd7-49ac-b922-2bc0221bcd79" />
+<img width="1905" height="1038" alt="image" src="https://github.com/user-attachments/assets/3d0ef625-883f-46d0-9b7a-30a989d0b915" />
+
 
 
 ## 1. 前端核心功能实现 (`client/src/`)
